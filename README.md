@@ -63,8 +63,7 @@
             </tr>
             <tr>
                 <td>8</td>
-                <td>Recap over JS fundamentals and add one or more of topics learned to Website</td>
-                <td>Row 6, Column 3</td>
+                <td colspan="2">Recap over JS fundamentals and add one or more of topics learned to Website</td>
             </tr>
         </tbody>
     </table>
