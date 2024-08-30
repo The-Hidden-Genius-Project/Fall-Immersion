@@ -39,7 +39,7 @@
             <tr>
                 <td>3</td>
                 <td>Intro into JS: Variables, data types, and operators / Counter Button</td>
-              <td>Row 1, Column 3</td>
+              <td><a href="https://github.com/The-Hidden-Genius-Project/Fall-Immersion/tree/main/javascript/counter">Counter</a></td>
             </tr>
             <tr>
                 <td>4</td>
