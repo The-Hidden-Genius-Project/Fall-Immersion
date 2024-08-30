@@ -44,22 +44,22 @@
             <tr>
                 <td>4</td>
                 <td>JS Fundamentals Cont. / Dark mode app</td>
-                <td>Row 2, Column 3</td>
+                <td><a href="https://github.com/The-Hidden-Genius-Project/Fall-Immersion/tree/main/javascript/dark-mode">Dark Mode</a></td>
             </tr>
             <tr>
                 <td>5</td>
                 <td>JS Animations / Modal / pop ups app</td>
-                <td>Row 3, Column 3</td>
+                <td><a href="https://github.com/The-Hidden-Genius-Project/Fall-Immersion/tree/main/javascript/model-pop-up">Modal/Pop-Ups</a></td>
             </tr>
             <tr>
                 <td>6</td>
                 <td>JS Functions, loops, and conditionals/ Form Data submission app</td>
-                <td>Row 4, Column 3</td>
+                <td><a href="https://github.com/The-Hidden-Genius-Project/Fall-Immersion/tree/main/javascript/form-submission">Form Submission</a></td>
             </tr>
             <tr>
                 <td>7</td>
                 <td>JS DOM manipulation and event handling / Event handling app</td>
-                <td>Row 5, Column 3</td>
+                <td><a href="https://github.com/The-Hidden-Genius-Project/Fall-Immersion/tree/main/javascript/event-handling">Event Handling</a></td>
             </tr>
             <tr>
                 <td>8</td>
