@@ -143,13 +143,11 @@
             </tr>
             <tr>
                 <td>18</td>
-                <td>Work on Completing Website and Pitches for Website</td>
-                <td>Row 6, Column 3</td>
+                <td colspan="2">Work on Completing Website and Pitches for Website</td>
             </tr>
           <tr>
                 <td>19</td>
-                <td>Present Final Flask Website</td>
-                <td>Row 6, Column 3</td>
+                <td colspan="2">Present Final Flask Website</td>
             </tr>
         </tbody>
     </table>
