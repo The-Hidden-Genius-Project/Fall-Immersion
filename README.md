@@ -84,22 +84,22 @@
                 <td>Intro to Bootstrap: Commonly used Bootstrap components (navbars, modals, cards) /  Landing page app
 
 </td>
-              <td>Row 1, Column 3</td>
+              <td><a href="https://github.com/The-Hidden-Genius-Project/Fall-Immersion/tree/main/bootstrap/Landing-page">Landing Page</a></td>
             </tr>
             <tr>
                 <td>10</td>
                 <td>Customizing Bootstrap with Sass / Art Gallery app</td>
-                <td>Row 2, Column 3</td>
+                <td><a href="https://github.com/The-Hidden-Genius-Project/Fall-Immersion/tree/main/bootstrap/Art-Gallery-App">Art Gallery App</a></td>
             </tr>
             <tr>
                 <td>11</td>
                 <td>Building complex layouts with Bootstrap utilities / Clothing Store app</td>
-                <td>Row 3, Column 3</td>
+                <td><a href="https://github.com/The-Hidden-Genius-Project/Fall-Immersion/tree/main/bootstrap/Clothing-Store-App">Clothing Store App</a></td>
             </tr>
             <tr>
                 <td>12</td>
                 <td>Using Bootstrap JavaScript plugins / Sports App</td>
-                <td>Row 4, Column 3</td>
+                <td><a href="https://github.com/The-Hidden-Genius-Project/Fall-Immersion/tree/main/bootstrap/Sports-App">Sports App</a></td>
             </tr>
             <tr>
                </tbody>
