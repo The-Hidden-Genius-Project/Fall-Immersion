@@ -53,5 +53,5 @@
 ## **Extra Activities:**
 [List any activities for students who finish early or need additional challenges]
 
-## **Reflection:**
+## **Reflection / Takeaways:**
 [After teaching the lesson, reflect on what went well and what could be improved]
