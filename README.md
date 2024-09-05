@@ -3,7 +3,7 @@
 # Fall 24' Cirriculum Unit Plan
 
 ## Overview:
-- This Fall Quarter, our geniuses will immerse themselves in advanced web development, focusing on HTML/CSS, JavaScript, and Bootstrap, to build a responsive website for their radical social entrepreneurship business. We will harness the power of the Flask framework to integrate front-end and back-end functionalities seamlessly. Also, our geniuses will immerse themselves in RSE which stands for Radical Social Entrepreneurship. RSE is an innovative and transformative discipline that addresses societal challenges through entrepreneurial solutions. This course empowers students to develop sustainable, scalable ventures that drive significant social change.
+- This Fall Quarter, our geniuses will immerse themselves in advanced web development, focusing on HTML/CSS, JavaScript, and Bootstrap, to build a responsive website for their radical social entrepreneurship business. We will harness the power of the Flask framework to integrate front-end and back-end functionalities seamlessly. Also, our geniuses will immerse themselves in RSE which stands for Radical Social Entrepreneurship. RSE is an innovative and transformative discipline that addresses societal challenges through entrepreneurial solutions. This course empowers students to develop sustainable, scalable ventures that drive significant social change. The focus will continue on leadership discussions initiated during the summer. The emphasis will be on exploring how to navigate the global landscape and understanding what it means to be black in a global society. Geniuses will engage in critical self-reflection and analyze how their personal views align with and differ from the broader socio-economic environment.
 
 ## Key Assignments:
 
