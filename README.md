@@ -203,35 +203,114 @@
         </thead>
         <tbody>
          <tr>
-                <td colspan="3">Recap over JS fundamentals and add one or more of topics learned to Website</td>
+                <td colspan="3">Holistic Health & Wellness</td>
             </tr>
             <tr>
-                <td>3</td>
-                <td>Intro into JS: Variables, data types, and operators / Counter Button</td>
+                <td>1</td>
+                <td>Time Management</td>
               <td><a href="https://github.com/The-Hidden-Genius-Project/Fall-Immersion/tree/main/javascript/counter">Counter</a></td>
             </tr>
             <tr>
-                <td>4</td>
-                <td>JS Fundamentals Cont. / Dark mode app</td>
+                <td>2</td>
+                <td>Growth vs Fixed Mindset</td>
                 <td><a href="https://github.com/The-Hidden-Genius-Project/Fall-Immersion/tree/main/javascript/dark-mode">Dark Mode</a></td>
             </tr>
             <tr>
-                <td>5</td>
-                <td>JS Animations / Modal / pop ups app</td>
+                <td>3</td>
+                <td>Being Present</td>
                 <td><a href="https://github.com/The-Hidden-Genius-Project/Fall-Immersion/tree/main/javascript/model-pop-up">Modal/Pop-Ups</a></td>
             </tr>
             <tr>
-                <td>6</td>
-                <td>JS Functions, loops, and conditionals/ Form Data submission app</td>
+                <td>4</td>
+                <td>Trust & Love</td>
+                <td><a href="https://github.com/The-Hidden-Genius-Project/Fall-Immersion/tree/main/javascript/form-submission">Form Submission</a></td>
+            </tr>
+         <tr>
+                <td colspan="3">Financial Literacy </td>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>Capitalism</td>
+              <td><a href="https://github.com/The-Hidden-Genius-Project/Fall-Immersion/tree/main/javascript/counter">Counter</a></td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>The Art of Negotiation: Mastering Money Talks</td>
+                <td><a href="https://github.com/The-Hidden-Genius-Project/Fall-Immersion/tree/main/javascript/dark-mode">Dark Mode</a></td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>The Art of Networking </td>
+                <td><a href="https://github.com/The-Hidden-Genius-Project/Fall-Immersion/tree/main/javascript/model-pop-up">Modal/Pop-Ups</a></td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>Taxes and Paychecks: Who really gets paid</td>
                 <td><a href="https://github.com/The-Hidden-Genius-Project/Fall-Immersion/tree/main/javascript/form-submission">Form Submission</a></td>
             </tr>
             <tr>
-                <td>7</td>
-                <td>JS DOM manipulation and event handling / Event handling app</td>
-                <td><a href="https://github.com/The-Hidden-Genius-Project/Fall-Immersion/tree/main/javascript/event-handling">Event Handling</a></td>
+                <td colspan="3">Educational System</td>
+            </tr>
+         <tr>
+                <td>1</td>
+                <td>Equity vs Equality & Justice</td>
+              <td><a href="https://github.com/The-Hidden-Genius-Project/Fall-Immersion/tree/main/javascript/counter">Counter</a></td>
             </tr>
             <tr>
-                <td colspan="3">Recap over JS fundamentals and add one or more of topics learned to Website</td>
+                <td>2</td>
+                <td>College 101: Is it really worth it?</td>
+                <td><a href="https://github.com/The-Hidden-Genius-Project/Fall-Immersion/tree/main/javascript/dark-mode">Dark Mode</a></td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>Non-Traditional Education & World Education</td>
+                <td><a href="https://github.com/The-Hidden-Genius-Project/Fall-Immersion/tree/main/javascript/model-pop-up">Modal/Pop-Ups</a></td>
+            </tr>
+         <tr>
+                <td colspan="3">Global Community & Governments</td>
+            </tr>
+         <tr>
+                <td>1</td>
+                <td>The Matrix</td>
+              <td><a href="https://github.com/The-Hidden-Genius-Project/Fall-Immersion/tree/main/javascript/counter">Counter</a></td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>What is the black diaspora</td>
+                <td><a href="https://github.com/The-Hidden-Genius-Project/Fall-Immersion/tree/main/javascript/dark-mode">Dark Mode</a></td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>World Governments & effects on black diaspora</td>
+                <td><a href="https://github.com/The-Hidden-Genius-Project/Fall-Immersion/tree/main/javascript/model-pop-up">Modal/Pop-Ups</a></td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>World Leaders: Learning from the Best</td>
+                <td><a href="https://github.com/The-Hidden-Genius-Project/Fall-Immersion/tree/main/javascript/form-submission">Form Submission</a></td>
+            </tr>
+         <tr>
+                <td colspan="3">Full Circle</td>
+            </tr>
+         <tr>
+                <td>1</td>
+                <td>Manhood Development pt.1</td>
+              <td><a href="https://github.com/The-Hidden-Genius-Project/Fall-Immersion/tree/main/javascript/counter">Counter</a></td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Manhood Development pt.2</td>
+                <td><a href="https://github.com/The-Hidden-Genius-Project/Fall-Immersion/tree/main/javascript/dark-mode">Dark Mode</a></td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>The Four Agreements</td>
+                <td><a href="https://github.com/The-Hidden-Genius-Project/Fall-Immersion/tree/main/javascript/model-pop-up">Modal/Pop-Ups</a></td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>It’s Your Life</td>
+                <td><a href="https://github.com/The-Hidden-Genius-Project/Fall-Immersion/tree/main/javascript/form-submission">Form Submission</a></td>
             </tr>
         </tbody>
     </table>
