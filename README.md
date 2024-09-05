@@ -191,3 +191,48 @@
         </tbody>
     </table>
 </details>
+<details>
+    <summary>Leadership</summary>
+      <table>
+        <thead>
+            <tr>
+                <th>DAY</th>
+                <th>Lesson Desc.</th>
+                <th>Link</th>
+            </tr>
+        </thead>
+        <tbody>
+         <tr>
+                <td colspan="3">Recap over JS fundamentals and add one or more of topics learned to Website</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>Intro into JS: Variables, data types, and operators / Counter Button</td>
+              <td><a href="https://github.com/The-Hidden-Genius-Project/Fall-Immersion/tree/main/javascript/counter">Counter</a></td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>JS Fundamentals Cont. / Dark mode app</td>
+                <td><a href="https://github.com/The-Hidden-Genius-Project/Fall-Immersion/tree/main/javascript/dark-mode">Dark Mode</a></td>
+            </tr>
+            <tr>
+                <td>5</td>
+                <td>JS Animations / Modal / pop ups app</td>
+                <td><a href="https://github.com/The-Hidden-Genius-Project/Fall-Immersion/tree/main/javascript/model-pop-up">Modal/Pop-Ups</a></td>
+            </tr>
+            <tr>
+                <td>6</td>
+                <td>JS Functions, loops, and conditionals/ Form Data submission app</td>
+                <td><a href="https://github.com/The-Hidden-Genius-Project/Fall-Immersion/tree/main/javascript/form-submission">Form Submission</a></td>
+            </tr>
+            <tr>
+                <td>7</td>
+                <td>JS DOM manipulation and event handling / Event handling app</td>
+                <td><a href="https://github.com/The-Hidden-Genius-Project/Fall-Immersion/tree/main/javascript/event-handling">Event Handling</a></td>
+            </tr>
+            <tr>
+                <td colspan="3">Recap over JS fundamentals and add one or more of topics learned to Website</td>
+            </tr>
+        </tbody>
+    </table>
+</details>
