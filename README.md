@@ -1,9 +1,9 @@
 <img src="https://github.com/Hgp-GeniusLabs/Curriculum/blob/10734f2c827128dde773ea4f266d154d46977866/Org-Wide/Assets/hgp_logo_original.png" width="150"/>
 
-# Fall 24' Responsive Web Development
+# Fall 24' Cirriculum Unit Plan
 
 ## Overview:
-- This Fall Quarter, our geniuses will immerse themselves in advanced web development, focusing on HTML/CSS, JavaScript, and Bootstrap, to build a responsive website for their radical social entrepreneurship business. We will harness the power of the Flask framework to integrate front-end and back-end functionalities seamlessly.
+- This Fall Quarter, our geniuses will immerse themselves in advanced web development, focusing on HTML/CSS, JavaScript, and Bootstrap, to build a responsive website for their radical social entrepreneurship business. We will harness the power of the Flask framework to integrate front-end and back-end functionalities seamlessly. Also, our geniuses will immerse themselves in RSE which stands for Radical Social Entrepreneurship. RSE is an innovative and transformative discipline that addresses societal challenges through entrepreneurial solutions. This course empowers students to develop sustainable, scalable ventures that drive significant social change.
 
 ## Key Assignments:
 
@@ -21,6 +21,11 @@
 - FLASK
   * Integrate Final Website 
   * Add User Database
+ - RSE
+   * Financial Planning
+   * Creating a Marketing Plan
+   * Team-Building Exercise
+   *  Choosing a Legal Structure
 
 
 ## Unit Plan:
@@ -148,6 +153,40 @@
           <tr>
                 <td>19</td>
                 <td colspan="2">Present Final Flask Website</td>
+            </tr>
+        </tbody>
+    </table>
+</details>
+<details>
+    <summary>Radical Social Entreprenuership</summary>
+      <table>
+        <thead>
+            <tr>
+                <th>DAY</th>
+                <th>Lesson Desc.</th>
+                <th>Link</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>Understanding Financial Sustainability</td>
+              <td><a href="https://docs.google.com/document/d/1EYkVRgO0HS1tp2RPdr-9ACTwOOoByJcWIeN7oFy2iTM/edit#heading=h.ipbnzs6afk69">Lesson Plan</a></td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Marketing and Scaling Social Impact</td>
+                <td><a href="https://docs.google.com/document/d/1alfxY6h14aA3wE3DtSvjsK1Q6QYDcmxTHjKnzNH9WAA/edit">Lesson Plan</a></td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>Building a Strong Team and Organizational Culture</td>
+                <td><a href="https://docs.google.com/document/d/1OF1Gp1fU8BL2D_w0n6TzBHIdtuBK21pRFHYss5YBUvE/edit">Lesson Plan</a></td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>Legal Structures and Compliance for Social Enterprises</td>
+                <td><a href="https://docs.google.com/document/d/1Pkkfodpu7_9lDOf9Ew5NCVvuP7bynFSuFCqNTM_oD94/edit">Lesson Plan</a></td>
             </tr>
         </tbody>
     </table>
