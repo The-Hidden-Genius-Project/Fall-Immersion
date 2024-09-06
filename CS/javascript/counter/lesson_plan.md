@@ -1,4 +1,4 @@
-# Lesson Plan: [Lesson Title]
+# Lesson Plan: Counter App
 
 ## **Duration:**
 45 Minutes
