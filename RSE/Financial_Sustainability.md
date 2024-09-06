@@ -26,7 +26,7 @@ This Fall Quarter, our geniuses will immerse themselves in RSE which stands for 
 
 ### 1. Introduction and Review (10 minutes)   
 
-- Review the previous lesson's key points about elevator pitches and pitch decks.
+- Take about what elevator pitches and pitch decks are and why are they important.
 - Brief introduction to financial sustainability and why it is critical for social enterprises.
 
 ### 2. Basic Financial Concepts Lecture (15 minutes)
