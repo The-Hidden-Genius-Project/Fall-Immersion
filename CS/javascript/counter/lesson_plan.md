@@ -11,9 +11,9 @@
 
 
 ## **Objectives:**
-- [Objective 1]: Learn how to connect HTML files to JavaScript files
-- [Objective 2]: Learn how to get the value of an P tag
-- [Objective 3]: Update the value of a P tag and display it on the screen
+- Learn how to connect HTML files to JavaScript files
+- Learn how to get the value of an P tag
+- Update the value of a P tag and display it on the screen
 
 ## **Materials:**
 - List all materials needed for the lesson, including handouts, technology, etc.
