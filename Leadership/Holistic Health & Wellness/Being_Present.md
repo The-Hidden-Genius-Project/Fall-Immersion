@@ -23,8 +23,7 @@ This informal leadership talk will explore the importance of being present, both
 - Calming background music or mindfulness audio clips (optional)
 
 ## **Standards:**
-- Social and Emotional Learning (SEL) Standards
-- Personal Development and Leadership Skills
+
 
 ## **Lesson Activity:**
 
