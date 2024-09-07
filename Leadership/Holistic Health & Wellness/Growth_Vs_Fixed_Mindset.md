@@ -23,8 +23,7 @@ This informal leadership talk will cover the concepts of Growth Mindset and Fixe
 - Videos or multimedia clips related to Growth Mindset (optional)
 
 ## **Standards:**
-- Social and Emotional Learning (SEL) Standards
-- Personal Development and Leadership Skills
+
 
 ## **Lesson Activity:**
 
