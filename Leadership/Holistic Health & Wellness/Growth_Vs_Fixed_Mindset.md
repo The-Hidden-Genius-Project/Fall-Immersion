@@ -3,7 +3,7 @@
 # Lesson Plan: Understanding Growth vs Fixed Mindset
 
 ## **Duration:**
-45 hour
+45 minutes
 
 ## **Lesson Overview:**
 This informal leadership talk will cover the concepts of Growth Mindset and Fixed Mindset as developed by Carol Dweck. Students will understand the characteristics of both mindsets, recognize their own mindset tendencies, and learn strategies to develop a growth mindset.
