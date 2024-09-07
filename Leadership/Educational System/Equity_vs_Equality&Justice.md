@@ -19,7 +19,7 @@ This informal leadership talk aims to explore the concepts of equity, equality, 
 - Projector and laptop
 - Handouts with key definitions, examples, and discussion questions
 - Whiteboard and markers
-- Pens and notebooks for students
+- Pens and notebooks for geniuses
 - Case studies or scenarios illustrating equity, equality, and justice in education (optional)
 
 ## **Standards:**
