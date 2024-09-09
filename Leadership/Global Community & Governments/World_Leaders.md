@@ -19,8 +19,8 @@ This talk will delve into the lives and contributions of prominent leaders withi
 ## Lesson Activity:
 
 ### 1. **Introduction (Time: 5 minutes)**
-   - **Objective:** Set the context and aim of the talk
-   - Welcome everyone and provide an outline of the talk's objectives
+   - **Objective:** Set the context and aim of leadership
+   - Welcome everyone and provide an outline of the leaderships objectives
    - Briefly discuss the importance of recognizing leaders within the Black diaspora
    - Encourage active participation and questions
 
@@ -79,6 +79,6 @@ This talk will delve into the lives and contributions of prominent leaders withi
 - **Leadership Vision Board:** Provide materials for attendees to create vision boards that represent their leadership goals and inspirations from the talk.
 
 ## **Reflection / Takeaways:**
-- Reflect on the effectiveness of the case studies and discussion in engaging the audience.
+- Reflect on the effectiveness of the case studies and discussion in engaging the geniuses.
 - Note any impactful insights or comments shared by the participants.
 - Gather feedback to identify areas for improvement and potential topics for future talks.
