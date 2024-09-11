@@ -4,11 +4,11 @@
 45 minutes
 
 ## **Lesson Overview:**
-This lesson will cover the fundamentals of effective time management, including prioritization techniques, goal setting, and strategies to overcome procrastination.
+This lesson will cover the fundamentals of effective time management, including prioritization techniques, goal setting, and strategies to overcome procrastination by 'Eating that Frog'.
 
 ## **Objectives:**
 - Understand the importance of time management in personal and professional life
-- Learn and apply prioritization techniques like the Eisenhower Matrix
+- Learn and apply prioritization techniques like the ABCDE Priortization Exercise
 - Develop SMART goals for better time allocation
 - Identify personal time-wasters and learn strategies to overcome them
 
@@ -25,8 +25,9 @@ N/A (Informal leadership talk)
 ## **Lesson Activity:**
 
 ### 1. **Introduction (Time: 5 minutes)**
-   - **Objective:** Set the context for the importance of time management
-   - Briefly discuss the impact of poor time management on stress levels and productivity
+   - **Objective:** Set the context for the importance of Time Management
+   - Talk about how "If you had to eat a frog, the best thing to do is eat it first thing in the morning"
+   - Briefly discuss the impact of poor Time Management on stress levels and productivity
    - Ask students to share their biggest time management challenges
 
 ### 2. **Direct Instruction (Time: 10 minutes)**
