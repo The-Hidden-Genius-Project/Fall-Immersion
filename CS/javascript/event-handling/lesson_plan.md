@@ -1,57 +1,59 @@
-# Lesson Plan: [Lesson Title]
+# Lesson Plan: Dark Mode Toggle
 
 ## **Duration:**
-[State the time required for the lesson]
+45 Minutes
 
 ## **Lesson Overview:**
-[Provide a brief summary of what the lesson will cover]
+-HTML
+-JavaScript
+-DOM Manipulation
 
 ## **Objectives:**
-- [Objective 1: What should students know or be able to do by the end of the lesson?]
-- [Objective 2]
-- [Objective 3]
+- [Objective 1]: Learn how to connect HTML files to JavaScript files
+- [Objective 2]: Learn how to write a JavaScript function to toggle Dark Mode using a if/else statement
+- [Objective 3]: Learn how to manipulate the DOM (Document Object Model) using JavaScript
 
 ## **Materials:**
-- [List all materials needed for the lesson, including handouts, technology, etc.]
-- [Material 2]
-- [Material 3]
+- Visual Studio Code, Cursor
+- Web browser (Chrome, Firefox, etc.)
+- Live Server extension
 
 ## **Standards:**
-[List the relevant educational standards this lesson addresses]
+- Basic HTML structure
+- Basic JavaScript functions
+- Basic DOM manipulation
 
 ## **Lesson Activity:**
 
 ### 1. **Introduction (Time: X minutes)**
    - **Objective:** [Explain the purpose of this part of the lesson]
-   - [Provide a brief introduction to the lesson topic]
-   - [Discuss any prior knowledge or concepts that will be built upon]
+   - Talk about event handling and how it works
+   - Talk about the different types of events and how they work
+   - Talk about the event object and how it works
 
 ### 2. **Direct Instruction (Time: X minutes)**
    - **Objective:** [Explain the purpose of this part of the lesson]
-   - [Present new content using methods such as lecture, demonstration, or discussion]
-   - [Include any visual aids, multimedia, or interactive elements]
+   - Show the students the HTML and JavaScript code for the event handling
+   - Add comments to the code to explain what each part does
+
 
 ### 3. **Guided Practice (Time: X minutes)**
    - **Objective:** [Explain the purpose of this part of the lesson]
-   - [Describe activities where students apply new knowledge with teacher support]
-   - [Include group work, hands-on activities, or problem-solving tasks]
+   - students will create a new HTML file and a new JavaScript file
+   - students will write the code to create a new button
+   - students will write the code to create a new function that will be called when the button is clicked
 
-### 4. **Independent Practice (Time: X minutes)**
-   - **Objective:** [Explain the purpose of this part of the lesson]
-   - [Describe tasks students will complete on their own to reinforce learning]
-   - [Include worksheets, projects, or homework assignments]
 
 ### 5. **Closure (Time: X minutes)**
    - **Objective:** [Explain the purpose of this part of the lesson]
-   - [Summarize the key points of the lesson]
-   - [Discuss the next steps or preview future lessons]
-   - [Assess student understanding through discussion or a quick assessment]
+   - Create a img element and append it to the body
 
 ## **Assessment:**
-[Describe how student learning will be assessed during or after the lesson]
+- Students will be able to create a new button and a new function that will be called when the button is clicked
+- The function will use an event listener to listen for the click event on the button
 
-## **Extra Activities:**
-[List any activities for students who finish early or need additional challenges]
 
 ## **Reflection / Takeaways:**
-[After teaching the lesson, reflect on what went well and what could be improved]
+- How is the listener different than the onclick attribute?
+- What are some other events that we can use?
+
