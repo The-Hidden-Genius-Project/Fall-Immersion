@@ -1,57 +1,67 @@
-# Lesson Plan: [Lesson Title]
+## Lesson Plan: Using Bootstrap JavaScript Plugins - Sports App
 
 ## **Duration:**
-[State the time required for the lesson]
+1 hour and 30 minutes
 
 ## **Lesson Overview:**
-[Provide a brief summary of what the lesson will cover]
+In this lesson, geniuses will learn how to utilize Bootstrap's JavaScript plugins to create interactive web components. This hands-on lesson guides geniuses through creating a sports news app, where they will fill in the blanks and customize various parts of the project.
 
 ## **Objectives:**
-- [Objective 1: What should students know or be able to do by the end of the lesson?]
-- [Objective 2]
-- [Objective 3]
+- Understand how to use Bootstrap's JavaScript plugins for interactive components.
+- Learn to create and customize carousels, modals, and tooltips.
+- Create a responsive and visually appealing sports news app.
+- Develop problem-solving skills through completing a partially finished project.
 
 ## **Materials:**
-- [List all materials needed for the lesson, including handouts, technology, etc.]
-- [Material 2]
-- [Material 3]
+- Computers with internet access
+- Code editor (such as VSCode, Sublime Text, or Notepad++)
+- Bootstrap documentation: [Bootstrap Documentation](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
+- Starter code files (`index.html`, `styles.css`, `script.js`)
 
 ## **Standards:**
-[List the relevant educational standards this lesson addresses]
+- Utilizing JavaScript plugins to enhance web interactivity using Bootstrap.
+- Creating interactive and responsive web components.
+- Integrating responsive design principles in web projects.
 
 ## **Lesson Activity:**
 
-### 1. **Introduction (Time: X minutes)**
-   - **Objective:** [Explain the purpose of this part of the lesson]
-   - [Provide a brief introduction to the lesson topic]
-   - [Discuss any prior knowledge or concepts that will be built upon]
+### 1. **Introduction (Time: 10 minutes)**
+   - **Objective:** Introduce Bootstrap's JavaScript plugins and their importance.
+   - Explain the benefits of using Bootstrap's built-in plugins for common interactive components.
+   - Provide an overview of the starter code and the assignment objectives.
 
-### 2. **Direct Instruction (Time: X minutes)**
-   - **Objective:** [Explain the purpose of this part of the lesson]
-   - [Present new content using methods such as lecture, demonstration, or discussion]
-   - [Include any visual aids, multimedia, or interactive elements]
+### 2. **Direct Instruction (Time: 20 minutes)**
+   - **Objective:** Teach geniuses how to use Bootstrap's JavaScript plugins.
+   - Demonstrate how to implement and customize carousels, modals, and tooltips.
+   - Walk through the `index.html` starter code, explaining the structure and the blanks that need to be filled in.
 
-### 3. **Guided Practice (Time: X minutes)**
-   - **Objective:** [Explain the purpose of this part of the lesson]
-   - [Describe activities where students apply new knowledge with teacher support]
-   - [Include group work, hands-on activities, or problem-solving tasks]
+### 3. **Guided Practice (Time: 30 minutes)**
+   - **Objective:** Guide geniuses through completing the blanks in the provided code.
+   - Work together on adding a third navigation link with the text `Live`.
+   - Guide geniuses to complete the carousel item with headline and summary.
+   - Assist geniuses as they complete the details for the third card and the modal.
 
-### 4. **Independent Practice (Time: X minutes)**
-   - **Objective:** [Explain the purpose of this part of the lesson]
-   - [Describe tasks students will complete on their own to reinforce learning]
-   - [Include worksheets, projects, or homework assignments]
+### 4. **Independent Practice (Time: 20 minutes)**
+   - **Objective:** Allow geniuses to complete and customize their sports news apps independently.
+   - Geniuses should finish the assigned sections (completing cards, modal content, etc.).
+   - Encourage geniuses to customize styles in `styles.css` and experiment with other Bootstrap utilities.
 
-### 5. **Closure (Time: X minutes)**
-   - **Objective:** [Explain the purpose of this part of the lesson]
-   - [Summarize the key points of the lesson]
-   - [Discuss the next steps or preview future lessons]
-   - [Assess student understanding through discussion or a quick assessment]
+### 5. **Closure (Time: 10 minutes)**
+   - **Objective:** Summarize the key points of the lesson and reinforce learning.
+   - Review the completed project, highlighting the use of Bootstrap's JavaScript plugins.
+   - Discuss the importance of interactivity and user experience in web development.
+   - Preview the next lesson, which might involve more advanced JavaScript or additional customizations.
 
 ## **Assessment:**
-[Describe how student learning will be assessed during or after the lesson]
+- **Formative Assessment:** Monitor genius progress during guided and independent practice, providing help and feedback as needed.
+- **Summative Assessment:** Review the final sports news projects for completeness, functionality, design, and creativity.
 
 ## **Extra Activities:**
-[List any activities for students who finish early or need additional challenges]
+- For geniuses who finish early, challenge them to:
+  - Add more news cards with different news items.
+  - Implement different Bootstrap components such as navbars, dropdowns, or popovers.
+  - Enhance the page with additional interactive JavaScript features.
 
 ## **Reflection / Takeaways:**
-[After teaching the lesson, reflect on what went well and what could be improved]
+- **Reflection:** Evaluate how well geniuses grasped the concepts of using Bootstrap's JavaScript plugins. Identify any areas where multiple geniuses struggled.
+- **Takeaways:** Consider adjusting the pacing or providing more examples and resources for any concepts that were challenging. Gather genius feedback to improve future lessons.
