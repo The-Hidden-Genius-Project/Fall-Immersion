@@ -1,0 +1,7 @@
+/* Genius can add custom styles here if needed */
+
+.jumbotron {
+    background-image: url('https://via.placeholder.com/1200x400');
+    background-size: cover;
+    color: white;
+}
