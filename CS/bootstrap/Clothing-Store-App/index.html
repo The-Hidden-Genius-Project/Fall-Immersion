@@ -3,31 +3,35 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Art Gallery</title>
-    <link rel="stylesheet" href="dist/styles.css">
+    <title>Clothing Store</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/5.3.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
   
     <!-- Navbar -->
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <div class="container-fluid">
-            <a class="navbar-brand" href="#">Art Gallery</a>
+            <a class="navbar-brand" href="#">Clothing Store</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="navbarNav">
-                <ul class="navbar-nav">
+                <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
                         <a class="nav-link active" aria-current="page" href="#">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Gallery</a>
+                        <a class="nav-link" href="#">Shop</a>
                     </li>
                     <!-- Blank nav link for the genius to complete -->
                     <li class="nav-item">
-                      <!-- Genius work starts here -->
-                        <a class="nav-link" href="#"> <!-- Complete this nav link with 'Contact' --> </a>
-                      <!-- Genius work ends here -->
+                        <!-- Genius work starts here -->
+                        <a class="nav-link" href="#"> <!-- Complete this nav link with 'About' --> </a>
+                        <!-- Genius work ends here -->
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Contact</a>
                     </li>
                 </ul>
             </div>
@@ -35,58 +39,72 @@
     </nav>
 
     <!-- Hero Section -->
-    <div class="jumbotron text-center py-5" style="background-color: $primary-color; color: $text-color;">
-        <h1>Welcome to the Art Gallery</h1>
-        <p>Discover, Learn, and Create with Our Collection</p>
-        <!-- Blank button for the genius to complete -->
-        <button type="button" class="btn btn-secondary" data-bs-toggle="modal" data-bs-target="#infoModal">
-            <!-- Complete this button text with 'Learn More' --> 
-        </button>
+    <div class="jumbotron text-center bg-light py-5">
+        <div class="container">
+            <h1 class="display-4">Welcome to Our Clothing Store</h1>
+            <p class="lead">Find the latest fashion trends here!</p>
+            <!-- Blank button for the genius to complete -->
+            <button type="button" class="btn btn-primary btn-lg" data-bs-toggle="modal" data-bs-target="#promoModal">
+                <!-- Complete this button text with 'Discover More' --> 
+            </button>
+        </div>
     </div>
 
-    <!-- Gallery Section -->
+    <!-- Product Categories Section -->
     <div class="container my-5">
         <div class="row">
-            <!-- Blank card for the genius to complete -->
-            <div class="col-md-4">
+            <div class="col-md-4 mb-4">
                 <div class="card">
-                    <img src="https://via.placeholder.com/150" class="card-img-top" alt="...">
+                    <img src="https://via.placeholder.com/150" class="card-img-top" alt="Men's Fashion">
                     <div class="card-body">
-                        <!-- Genius work starts here -->
-                        <h5 class="card-title"> <!-- Enter card title with 'Artwork Title' --> </h5>
-                        <p class="card-text"> <!-- Enter card text with 'A brief description of the artwork.' --> </p>
-                        <a href="#" class="btn btn-primary">
-                          <!-- Complete this button text with 'View Details' --> 
+                        <h5 class="card-title">Men's Fashion</h5>
+                        <p class="card-text">Explore the latest in men's fashion.</p>
+                        <!-- Blank button for the genius to complete -->
+                        <a href="#" class="btn btn-secondary">
+                          <!-- Complete this button text with 'Shop Now' --> 
                         </a>
-                      <!-- Genius work ends here -->
                     </div>
                 </div>
             </div>
-            <!-- Additional cards for completed project -->
-            <div class="col-md-4">
+            <!-- Blank card for the genius to complete -->
+            <div class="col-md-4 mb-4">
                 <div class="card">
-                    <img src="https://via.placeholder.com/150" class="card-img-top" alt="...">
+                    <img src="https://via.placeholder.com/150" class="card-img-top" alt="Women's Fashion">
                     <div class="card-body">
-                        <h5 class="card-title">Another Artwork</h5>
-                        <p class="card-text">A brief description of the second artwork.</p>
-                        <a href="#" class="btn btn-primary">View Details</a>
+                        <!-- Genius work starts here -->
+                        <h5 class="card-title"> <!-- Enter card title with 'Women's Fashion' --> </h5>
+                        <p class="card-text"> <!-- Enter card text with 'Discover the latest trends in women's fashion.' --> </p>
+                        <a href="#" class="btn btn-secondary">
+                          <!-- Complete this button text with 'Shop Now' --> 
+                        </a>
+                        <!-- Genius work ends here -->
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 mb-4">
+                <div class="card">
+                    <img src="https://via.placeholder.com/150" class="card-img-top" alt="Kids' Fashion">
+                    <div class="card-body">
+                        <h5 class="card-title">Kids' Fashion</h5>
+                        <p class="card-text">Find adorable outfits for kids.</p>
+                        <a href="#" class="btn btn-secondary">Shop Now</a>
                     </div>
                 </div>
             </div>
         </div>
     </div>
 
-    <!-- Modal -->
-    <div class="modal fade" id="infoModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <!-- Promotional Modal -->
+    <div class="modal fade" id="promoModal" tabindex="-1" aria-labelledby="promoModalLabel" aria-hidden="true">
         <div class="modal-dialog">
             <div class="modal-content">
                 <div class="modal-header">
-                    <h5 class="modal-title" id="exampleModalLabel">About the Gallery</h5>
+                    <h5 class="modal-title" id="promoModalLabel">Special Promotion</h5>
                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
                 <div class="modal-body">
                     <!-- Genius work starts here -->
-                    <p> <!-- Enter modal body text with 'Our gallery features a curated selection of art pieces from all around the world.' --> </p>
+                    <p> <!-- Enter modal body text with 'Enjoy 20% off on all items for a limited time!' --> </p>
                     <!-- Genius work ends here-->
                 </div>
                 <div class="modal-footer">
