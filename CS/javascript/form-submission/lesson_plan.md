@@ -1,57 +1,62 @@
-# Lesson Plan: [Lesson Title]
+### Lesson Plan: Introduction to Form Submission in JavaScript
 
 ## **Duration:**
-[State the time required for the lesson]
+1 hour
 
 ## **Lesson Overview:**
-[Provide a brief summary of what the lesson will cover]
+In this lesson, geniuses will learn how to create a basic HTML form and use JavaScript to handle form submissions. They will learn how to validate form data and provide feedback to users.
 
 ## **Objectives:**
-- [Objective 1: What should students know or be able to do by the end of the lesson?]
-- [Objective 2]
-- [Objective 3]
+- Understand the structure of an HTML form
+- Use JavaScript to validate form data
+- Handle form submission using JavaScript
+- Provide feedback to users upon form submission
 
 ## **Materials:**
-- [List all materials needed for the lesson, including handouts, technology, etc.]
-- [Material 2]
-- [Material 3]
+- Computers with internet access
+- Text editor (such as VSCode, Sublime Text, or Notepad++)
+- Projector or whiteboard for demonstrations
 
 ## **Standards:**
-[List the relevant educational standards this lesson addresses]
+- Understanding HTML form elements
+- Basic JavaScript event handling
+- Client-side form validation
 
 ## **Lesson Activity:**
 
-### 1. **Introduction (Time: X minutes)**
-   - **Objective:** [Explain the purpose of this part of the lesson]
-   - [Provide a brief introduction to the lesson topic]
-   - [Discuss any prior knowledge or concepts that will be built upon]
+### 1. **Introduction (Time: 10 minutes)**
+   - **Objective:** Introduce the topic of form submission and its importance in web development.
+   - Discuss the role of forms in collecting user data on websites.
+   - Show examples of common forms (e.g., contact form, registration form).
 
-### 2. **Direct Instruction (Time: X minutes)**
-   - **Objective:** [Explain the purpose of this part of the lesson]
-   - [Present new content using methods such as lecture, demonstration, or discussion]
-   - [Include any visual aids, multimedia, or interactive elements]
+### 2. **Direct Instruction (Time: 15 minutes)**
+   - **Objective:** Teach geniuses how to create forms in HTML.
+   - Explain various form elements like input, textarea, and button.
+   - Demonstrate creating a simple form in HTML.
 
-### 3. **Guided Practice (Time: X minutes)**
-   - **Objective:** [Explain the purpose of this part of the lesson]
-   - [Describe activities where students apply new knowledge with teacher support]
-   - [Include group work, hands-on activities, or problem-solving tasks]
+### 3. **Guided Practice (Time: 15 minutes)**
+   - **Objective:** Guide geniuses through adding form validation and handling submission with JavaScript.
+   - Walk geniuses through the provided `script.js` code.
+   - Explain how `event.preventDefault()` works to prevent form submission and handle it manually.
 
-### 4. **Independent Practice (Time: X minutes)**
-   - **Objective:** [Explain the purpose of this part of the lesson]
-   - [Describe tasks students will complete on their own to reinforce learning]
-   - [Include worksheets, projects, or homework assignments]
+### 4. **Independent Practice (Time: 15 minutes)**
+   - **Objective:** Allow geniuses to practice form submission and validation on their own.
+   - Have geniuses complete starter code for script.js
+   - Assign genisuses to create a form with additional fields (e.g., phone number, address) and validate them.
+   - Encourage geniuses to add custom alerts or messages upon form submission.
 
-### 5. **Closure (Time: X minutes)**
-   - **Objective:** [Explain the purpose of this part of the lesson]
-   - [Summarize the key points of the lesson]
-   - [Discuss the next steps or preview future lessons]
-   - [Assess student understanding through discussion or a quick assessment]
+### 5. **Closure (Time: 5 minutes)**
+   - **Objective:** Summarize the lesson and reinforce key points.
+   - Review the main concepts covered: HTML forms, JavaScript validation, and form submission handling.
 
 ## **Assessment:**
-[Describe how student learning will be assessed during or after the lesson]
+- Monitor geniuses during independent practice to ensure they are correctly implementing form validation and submission.
+- Review their code and provide feedback.
 
 ## **Extra Activities:**
-[List any activities for students who finish early or need additional challenges]
+- For geniuses who finish early, challenge them to style the form using CSS.
+- Ask geniuses to implement more advanced validation (e.g., password strength check).
 
 ## **Reflection / Takeaways:**
-[After teaching the lesson, reflect on what went well and what could be improved]
+- **Reflection:** Evaluate how well geniuses grasped the concepts. Were there any common difficulties?
+- **Takeaways:** Collect feedback from geniuses about what they enjoyed and what could be improved in the lesson. Consider pacing adjustments or additional clarifications based on genius feedback.
