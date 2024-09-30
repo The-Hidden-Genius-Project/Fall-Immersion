@@ -1,75 +1,67 @@
-**Set Up the Environment:**
-   - Ensure you have Node.js and npm installed.
-   - Install Sass (`npm install -g sass`).
-   - Create a project directory and save the provided files (`index.html`, `styles.scss`) in it.
-
-
-## Lesson Plan: Customizing Bootstrap with Sass - Art Gallery App
+## Lesson Plan: Building Complex Layouts with Bootstrap Utilities - Clothing Store App
 
 ## **Duration:**
 1 hour and 30 minutes
 
 ## **Lesson Overview:**
-In this lesson, geniuses will learn how to customize Bootstrap using Sass to create an art gallery app. They will practice compiling Sass to CSS and modifying Bootstrap's default variables to change the appearance of the web application.
+In this lesson, geniuses will learn how to build complex layouts using Bootstrap's grid system and utility classes. This hands-on lesson guides geniuses through creating a clothing store app, where they will fill in the blanks and customize various parts of the project.
 
 ## **Objectives:**
-- Understand how to set up a Bootstrap project with Sass.
-- Learn to customize Bootstrap components using Sass variables.
-- Create a responsive and visually appealing art gallery app.
-- Develop skills in compiling Sass to CSS.
+- Understand how to use Bootstrap's grid system to create responsive layouts.
+- Learn to utilize Bootstrap utility classes for styling and layout adjustments.
+- Create a responsive and visually appealing clothing store app.
+- Develop problem-solving skills through completing a partially finished project.
 
 ## **Materials:**
 - Computers with internet access
 - Code editor (such as VSCode, Sublime Text, or Notepad++)
 - Bootstrap documentation: [Bootstrap Documentation](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
-- Sass documentation: [Sass Documentation](https://sass-lang.com/documentation)
-- Starter code files (`index.html`, `styles.scss`)
+- Starter code files (`index.html`, `styles.css`)
 
 ## **Standards:**
-- Utilizing CSS pre-processors (Sass) to enhance web development workflow.
-- Customizing CSS frameworks for specific design needs.
+- Utilizing CSS frameworks like Bootstrap for responsive web development.
+- Creating complex layouts using grid systems and utility classes.
 - Integrating responsive design principles in web projects.
 
 ## **Lesson Activity:**
 
 ### 1. **Introduction (Time: 10 minutes)**
-   - **Objective:** Introduce Sass and its benefits in web development.
-   - Explain the purpose of CSS pre-processors like Sass (e.g., variables, nesting, mixins).
-   - Brief overview of Bootstrap customization.
+   - **Objective:** Introduce Bootstrap's grid system and utility classes.
+   - Explain the importance of responsive design and how Bootstrap addresses this.
+   - Provide an overview of the starter code and the assignment objectives.
 
 ### 2. **Direct Instruction (Time: 20 minutes)**
-   - **Objective:**
-   - Explain how to set up a Bootstrap project with Sass.
-   - Demonstrate including Bootstrap and Sass in a project and compiling Sass to CSS.
-   - Go through the provided `index.html` and `styles.scss` starter code, highlighting the blanks that need completion.
+   - **Objective:** Teach geniuses how to use Bootstrap's grid system and utility classes.
+   - Demonstrate the use of grid system for layout creation and utility classes for quick styling adjustments.
+   - Walk through the `index.html` starter code, explaining the structure and the blanks that need to be filled in.
 
 ### 3. **Guided Practice (Time: 30 minutes)**
    - **Objective:** Guide geniuses through completing the blanks in the provided code.
-   - Work together on adding a third navigation link with the text 'Contact' in the navbar.
-   - Guide geniuses to complete the button in the hero section with the text 'Learn More'.
-   - Assist geniuses as they complete the details for the first card and the modal.
+   - Work together on the navbar section, adding a third navigation link with the text `About`.
+   - Guide geniuses to complete the button in the hero section with the text `Discover More`.
+   - Assist geniuses as they complete the details for the second card and the modal.
 
 ### 4. **Independent Practice (Time: 20 minutes)**
-   - **Objective:** Allow geniuses to complete and customize their gallery apps independently.
+   - **Objective:** Allow geniuses to complete and customize their clothing store apps independently.
    - Geniuses should finish the assigned sections (completing cards, modal content, etc.).
-   - Encourage geniuses to customize Bootstrap variables in `styles.scss` and recompile their Sass file.
+   - Encourage geniuses to customize styles in `styles.css` and experiment with other Bootstrap utilities.
 
 ### 5. **Closure (Time: 10 minutes)**
    - **Objective:** Summarize the key points of the lesson and reinforce learning.
-   - Review the completed project, highlighting the use of customized Bootstrap components.
-   - Discuss the importance of pre-processors like Sass for maintaining large CSS files.
-   - Preview the next lesson, which might involve more advanced Bootstrap components or deeper Sass functionalities like mixins and functions.
+   - Review the completed project highlighting the use of Bootstrap's grid system and utility classes.
+   - Discuss the importance of grid systems and utility classes in building flexible and maintainable layouts.
+   - Preview the next lesson, which might involve more advanced Bootstrap components or additional customizations.
 
 ## **Assessment:**
 - **Formative Assessment:** Monitor genius progress during guided and independent practice, providing help and feedback as needed.
-- **Summative Assessment:** Review the final art gallery projects for completeness, functionality, design, and creativity.
+- **Summative Assessment:** Review the final clothing store projects for completeness, functionality, design, and creativity.
 
 ## **Extra Activities:**
 - For geniuses who finish early, challenge them to:
-  - Add more cards to the gallery with different artworks.
-  - Implement different Bootstrap components such as tooltips or dropdowns.
-  - Explore advanced Sass functionalities like nesting, mixins, or functions.
+  - Add more categories and cards to the gallery with different clothing items.
+  - Implement different Bootstrap components such as carousels or dropdowns.
+  - Enhance the page with additional interactive JavaScript features.
 
 ## **Reflection / Takeaways:**
-- **Reflection:** Evaluate how well geniuses grasped the concepts of using Sass to customize Bootstrap. Identify any areas where multiple geniuses struggled.
-- **Takeaways:** Consider adjusting the pacing or providing more examples and resources for any concepts that were challenging. Gather genius feedback to improve future lessons.
+- **Reflection:** Evaluate how well geniuses grasped the concepts of using Bootstrap's grid system and utility classes. Identify any areas where multiple students struggled.
+- **Takeaways:** Consider adjusting the pacing or providing more examples and resources for any concepts that were challenging. Gather student feedback to improve future lessons.
