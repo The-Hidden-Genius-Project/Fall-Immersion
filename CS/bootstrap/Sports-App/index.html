@@ -1,1 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sports App</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/5.3.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="#">Sports News</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="#">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">News</a>
+                    </li>
+                    <!-- Blank nav link for the genius to complete -->
+                    <li class="nav-item">
+                        <!-- Genius work starts here -->
+                        <a class="nav-link" href="#"> <!-- Complete this nav link with 'Live' --> </a>
+                        <!-- Genius work ends here -->
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Contact</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
 
+    <!-- Hero Section with Carousel -->
+    <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
+        <div class="carousel-indicators">
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+        </div>
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img src="https://via.placeholder.com/1200x400" class="d-block w-100" alt="...">
+                <div class="carousel-caption d-none d-md-block">
+                    <h5>Headline 1</h5>
+                    <p>Summary of the first headline.</p>
+                </div>
+            </div>
+            <div class="carousel-item">
+                <img src="https://via.placeholder.com/1200x400" class="d-block w-100" alt="...">
+                <div class="carousel-caption d-none d-md-block">
+                    <h5>Headline 2</h5>
+                    <p>Summary of the second headline.</p>
+                </div>
+            </div>
+            <!-- Blank carousel item for the genius to complete -->
+            <div class="carousel-item">
+                <!-- Genius work starts here -->
+                <img src="https://via.placeholder.com/1200x400" class="d-block w-100" alt="...">
+                <div class="carousel-caption d-none d-md-block">
+                    <h5> <!-- Enter headline with 'Headline 3' --> </h5>
+                    <p> <!-- Enter summary with 'Summary of the third headline.' --> </p>
+                </div>
+                <!-- Genius work ends here -->
+            </div>
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+        </button>
+    </div>
+
+    <!-- Latest News Section -->
+    <div class="container my-5">
+        <h2 class="text-center">Latest News</h2>
+        <div class="row">
+            <div class="col-md-4">
+                <div class="card">
+                    <img src="https://via.placeholder.com/150" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">News Title 1</h5>
+                        <p class="card-text">A brief description of the first news.</p>
+                        <a href="#" class="btn btn-primary" data-bs-toggle="tooltip" title="Read more">
+                            <!-- Blank button text for the genius to complete -->
+                            <!-- Genius work starts here -->
+                            <!-- Complete this button text with 'Details' --> 
+                            <!-- Genius work ends here -->
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card">
+                    <img src="https://via.placeholder.com/150" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">News Title 2</h5>
+                        <p class="card-text">A brief description of the second news.</p>
+                        <a href="#" class="btn btn-primary" data-bs-toggle="tooltip" title="Read more">Details</a>
+                    </div>
+                </div>
+            </div>
+            <!-- Blank card for the genius to complete -->
+            <div class="col-md-4">
+                <div class="card">
+                    <img src="https://via.placeholder.com/150" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <!-- Genius work starts here -->
+                        <h5 class="card-title"> <!-- Enter card title with 'News Title 3' --> </h5>
+                        <p class="card-text"> <!-- Enter card text with 'A brief description of the third news.' --> </p>
+                        <a href="#" class="btn btn-primary" data-bs-toggle="tooltip" title="Read more">
+                            <!-- Complete this button text with 'Details' --> 
+                        </a>
+                        <!-- Genius work ends here -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Information Modal -->
+    <div class="modal fade" id="infoModal" tabindex="-1" aria-labelledby="infoModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="infoModalLabel">About Us</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <!-- Genius work starts here -->
+                    <p> <!-- Enter modal body text with 'We provide the latest sports news and live updates.' --> </p>
+                    <!-- Genius work ends here-->
+                </div>
+                <div class="modal-footer">
+                    <!-- Genius work starts here -->
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal"> <!-- Complete this button text with 'Close' --> </button>
+                    <!-- Genius work ends here -->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/5.3.0/js/bootstrap.bundle.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
