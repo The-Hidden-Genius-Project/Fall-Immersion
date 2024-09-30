@@ -1,1 +1,29 @@
+// Import Bootstrap
+@import "node_modules/bootstrap/scss/bootstrap";
+
+// Custom Bootstrap Variables
+$primary-color: #8B0000; // Genius can modify this
+$secondary-color: #FFA07A; // Genius can modify this
+$text-color: #333333; // Genius can modify this
+
+// Custom Styles
+body {
+    font-family: Arial, sans-serif;
+}
+
+// Ensure that the custom variables take effect
+.navbar-light {
+    background-color: $secondary-color !important;
+}
+
+.btn-secondary {
+    background-color: darken($secondary-color, 10%); // Genius can adjust this
+    border-color: darken($secondary-color, 10%); // Genius can adjust this
+}
+
+.jumbotron {
+    background-color: $primary-color;
+    color: $text-color;
+}
+
 
