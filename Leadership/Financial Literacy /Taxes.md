@@ -40,7 +40,7 @@ This informal leadership talk will cover the basics of how taxation affects empl
 
 ### 3. **Guided Practice (Time: 15 minutes)**
    - **Objective:** Give students hands-on practice in reading and interpreting paychecks.
-   - Distribute sample paychecks and tax forms to Geniuses.
+   - Have geniuses input their previous stipend into a sample paycheck.
    - Walk through an example paycheck on the board, explaining each section in detail.
    - Facilitate a group activity where geniuses work in pairs to identify and calculate deductions from their sample paychecks.
    - Discuss any confusion or commonly misunderstood areas.
