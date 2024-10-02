@@ -22,6 +22,7 @@ This informal leadership talk will cover the basics of how taxation affects empl
 - Pens and notebooks for students
 - Calculators (optional, for calculating deductions)
 - SEE RESOURCE FOLDER FOR FILE ON HOW TO GET CA TAXES
+- https://www.irs.gov/filing/federal-income-tax-rates-and-brackets
 
 ## **Standards:**
 
