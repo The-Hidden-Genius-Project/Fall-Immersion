@@ -6,7 +6,7 @@
 45 Minutes
 
 ## **Lesson Overview:**
-This informal leadership talk will cover the basics of how taxation affects employee paychecks. Students will learn about different types of taxes, how to read a paycheck, and the importance of understanding their deductions. The goal is to provide attendees with practical knowledge that will help them make informed financial decisions.
+This informal leadership talk will cover the basics of how taxation affects employee paychecks. Students will learn about different types of taxes, how to read a paycheck, and the importance of understanding their deductions. The goal is to provide geniuses with practical knowledge that will help them make informed financial decisions.
 
 ## **Objectives:**
 - Understand different types of taxes (federal, state, and local) and their purposes.
