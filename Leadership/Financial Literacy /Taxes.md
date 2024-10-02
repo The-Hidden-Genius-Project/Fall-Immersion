@@ -21,6 +21,7 @@ This informal leadership talk will cover the basics of how taxation affects empl
 - Whiteboard and markers
 - Pens and notebooks for students
 - Calculators (optional, for calculating deductions)
+- SEE RESOURCE FOLDER FOR FILE ON HOW TO GET CA TAXES
 
 ## **Standards:**
 
