@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", () => {
     form.addEventListener('submit', function(event) {
         event.preventDefault();
 
-        //Add Varibles from index.html (hint: use Document get function)
+        //Add Varibles from index.html (hint: Use document.get function)
 
         if (name && email && message) {
             alert(`Form submitted successfully!\nName: ${name}\nEmail: ${email}\nMessage: ${message}`);
