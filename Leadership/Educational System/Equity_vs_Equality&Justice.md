@@ -23,8 +23,7 @@ This informal leadership talk aims to explore the concepts of equity, equality, 
 - Pens and notebooks for geniuses
 - Case studies or scenarios illustrating equity, equality, and justice in education (optional)
 
-<img src="https://interactioninstitute.org/wp-content/uploads/2016/01/IISC_EqualityEquity.png
-" width="150"/>
+<img src="https://interactioninstitute.org/wp-content/uploads/2016/01/IISC_EqualityEquity.png" width="150"/>
 
 
 ## **Standards:**
