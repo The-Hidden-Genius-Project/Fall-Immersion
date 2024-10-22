@@ -1,5 +1,6 @@
 <img src="https://github.com/Hgp-GeniusLabs/Curriculum/blob/10734f2c827128dde773ea4f266d154d46977866/Org-Wide/Assets/hgp_logo_original.png" width="150"/>
 
+
 # Lesson Plan: Equity vs. Equality & Justice in Education
 
 ## **Duration:**
@@ -21,6 +22,10 @@ This informal leadership talk aims to explore the concepts of equity, equality, 
 - Whiteboard and markers
 - Pens and notebooks for geniuses
 - Case studies or scenarios illustrating equity, equality, and justice in education (optional)
+
+<img src="https://interactioninstitute.org/wp-content/uploads/2016/01/IISC_EqualityEquity.png
+" width="150"/>
+
 
 ## **Standards:**
 
