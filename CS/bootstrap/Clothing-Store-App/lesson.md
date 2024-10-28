@@ -17,6 +17,7 @@ In this lesson, geniuses will learn how to build complex layouts using Bootstrap
 - Code editor (such as VSCode, Sublime Text, or Notepad++)
 - Bootstrap documentation: [Bootstrap Documentation](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
 - Starter code files (`index.html`, `styles.css`)
+- https://getbootstrap.com/docs/4.0/layout/grid/
 
 ## **Standards:**
 - Utilizing CSS frameworks like Bootstrap for responsive web development.
