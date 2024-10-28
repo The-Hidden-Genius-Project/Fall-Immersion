@@ -17,6 +17,7 @@ In this lesson, geniuses will learn how to utilize Bootstrap's JavaScript plugin
 - Code editor (such as VSCode, Sublime Text, or Notepad++)
 - Bootstrap documentation: [Bootstrap Documentation](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
 - Starter code files (`index.html`, `styles.css`, `script.js`)
+- https://getbootstrap.com/docs/4.0/components/carousel/
 
 ## **Standards:**
 - Utilizing JavaScript plugins to enhance web interactivity using Bootstrap.
