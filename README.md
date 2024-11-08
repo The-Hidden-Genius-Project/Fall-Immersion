@@ -271,12 +271,12 @@
             </tr>
          <tr>
                 <td>1</td>
-                <td>The Matrix</td>
+                <td>What is the black diaspora</td>
               <td><a href="https://github.com/The-Hidden-Genius-Project/Fall-Immersion/tree/main/javascript/counter">Counter</a></td>
             </tr>
             <tr>
                 <td>2</td>
-                <td>What is the black diaspora</td>
+                <td>The Matrix</td>
                 <td><a href="https://github.com/The-Hidden-Genius-Project/Fall-Immersion/tree/main/javascript/dark-mode">Dark Mode</a></td>
             </tr>
             <tr>
