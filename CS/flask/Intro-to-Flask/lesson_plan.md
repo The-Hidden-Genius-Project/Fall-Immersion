@@ -5,7 +5,7 @@
 ## **Lesson: Introduction to Flask and Python for Web Development**
 
 ### **Session Duration**
-- **90-120 minutes** (adjust based on your schedule)
+- **60-90 minutes** (adjust based on your schedule)
 
 ---
 
