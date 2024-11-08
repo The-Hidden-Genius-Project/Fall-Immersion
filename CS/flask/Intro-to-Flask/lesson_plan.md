@@ -158,7 +158,7 @@ By the end of the session, students will understand the basics of Flask, a Pytho
 6. **Wrap-Up & Homework Assignment** (10-15 minutes)
    - **Recap Key Concepts**: Review the main topics, including setting up Flask, creating routes, using templates, and passing dynamic data to templates.
    - **Q&A Session**: Address any questions and provide troubleshooting assistance.
-   - **Homework**: Assign students to build a small web app with at least three pages (e.g., a home, contact, and profile page), passing in some dynamic data to customize each page.
+   - **Homework**: Help students think about how this will be used with their existing business project in addition to bootstrap
 
 ---
 
