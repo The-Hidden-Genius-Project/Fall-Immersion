@@ -39,7 +39,6 @@ This lesson engages students in exploring the concept of manhood by deconstructi
 
 ### 3. **Guided Practice (Time: 15 minutes)**
    - **Objective:** To allow students to reflect personally on questions about manhood.
-   - Divide the class into two groups (pods).
    - Distribute handouts with the following reflection questions:
      1. What is a man?
      2. Where do emotions come from?
